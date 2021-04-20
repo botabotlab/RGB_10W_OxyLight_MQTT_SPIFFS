@@ -11,7 +11,7 @@ boolean load_wifi() {
   config_file.close();
 
   ssid = (const char*)WIFI["SSID"];
-  password = (const char*)WIFI["Password"];
+  password = (const char*)WIFI["Pass"];
   mqtt_server = (const char*)WIFI["MQTT_Server"];
   mqtt_user = (const char*)WIFI["MQTT_User"];
   mqtt_pass = (const char*)WIFI["MQTT_Pass"];
