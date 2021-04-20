@@ -1,5 +1,6 @@
 # RGB_10W_OxyLight_MQTT_SPIFFS
 Dual 10W remotely controllable RGB Light for the Oxygraph
+![Dual RGB Light](https://raw.githubusercontent.com/botabotlab/RGB_10W_OxyLight_MQTT_SPIFFS/main/img/main.jpg)
 
 ## Softwares
 
