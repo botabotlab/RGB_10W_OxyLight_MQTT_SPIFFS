@@ -1,0 +1,8 @@
+{"SSID" : "SSID",
+"Password" : "PASSWORD",
+"MQTT_Server" : "MQTT.Broker.IP",
+"MQTT_User" : "MQTT User",
+"MQTT_Pass" : "MQTT Pass",
+"Topic_LED1" : "botabot/light/oxygraph/01",
+"Topic_LED2" : "botabot/light/oxygraph/02",
+"HostName" : "ESP_OXYGRAPH_LIGHT_01"}
